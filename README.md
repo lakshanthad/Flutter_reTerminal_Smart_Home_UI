@@ -136,7 +136,7 @@ You can also extend this by adding a relay to the GPIO pins and control home app
 
 ## Modify the codes
 
-If you want to control other GPIO pins by pressing the buttons on the screen, you can check the pages **livingRoom.dart, kitchen.dart, bedroom.dart,garden.dart** and modify the codes inside the following section:
+If you want to control other GPIO pins by pressing the buttons on the screen, you can check the pages **livingRoom.dart, kitchen.dart, bedroom.dart, garden.dart** and modify the codes inside the following section:
 
 ```dart
 ElevatedButton(
